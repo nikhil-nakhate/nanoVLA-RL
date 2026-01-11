@@ -1,0 +1,18 @@
+# Cursor Rules for decoding-ai project
+
+## Environment
+- Always use the `llm_agents` conda environment for running Python code
+- Activate the environment with: `conda activate llm_agents`
+- Ensure all Python commands, scripts, and terminal operations run within this environment
+
+## Project Context
+- This is a PyTorch-based project implementing vision models (e.g., SigLIP)
+- Use type hints and follow Python best practices
+- Maintain clean, modular code structure
+
+## Code Style
+- Follow PEP 8 style guidelines
+- Use type hints for function parameters and return types
+- Write clear docstrings for classes and functions
+- Keep code modular and well-organized
+

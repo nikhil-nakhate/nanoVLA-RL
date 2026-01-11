@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/home/nikhil/miniconda3/envs/llm_agents/bin/python",
+    "python.analysis.extraPaths": [],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
+
