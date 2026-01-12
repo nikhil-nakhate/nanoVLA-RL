@@ -1,0 +1,10 @@
+# Base configuration extended by other configs
+
+train:
+  seed: 1111
+  batch_size: 4
+  lr: 0.00001
+  weight_decay: 0.01
+  epochs: 100
+  save_every: 100
+  output_dir: 'outputs'

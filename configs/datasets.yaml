@@ -1,0 +1,21 @@
+# Dataset Registry
+# Central configuration mapping dataset names to paths and settings
+# Referenced by model configs using the 'dataset' field
+
+celebhq:
+  path: 'data/CelebAMask-HQ'
+  im_size: 128
+  im_channels: 3
+  type: image_folder
+
+imagenet:
+  path: 'data/imagenet'
+  im_size: 256
+  im_channels: 3
+  type: image_folder
+
+custom_faces:
+  path: 'data/custom_faces'
+  im_size: 256
+  im_channels: 3
+  type: image_folder
